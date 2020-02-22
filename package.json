@@ -4,6 +4,7 @@
   "description": "Simple WebRTC Messenger",
   "scripts": {
     "start": "node api/server.js"
+    "build": "simplewebrtc-messenger build --output public"
   },
   "keywords": [
     "WebRTC"
